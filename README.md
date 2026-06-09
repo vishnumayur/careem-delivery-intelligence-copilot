@@ -39,12 +39,12 @@ The prototype converts project updates into actionable delivery intelligence, he
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard-overview.PNG)
+![Dashboard Overview](dashboard-overview..PNG)
 
 ### Full Analysis
 
-![Full Analysis](full-analysis.PNG)
+![Full Analysis](full-analysis.png)
 
 ### Executive Summary
 
-![Executive Summary](executive-summary.PNG)
+![Executive Summary](executive-summary.png)
