@@ -43,8 +43,8 @@ The prototype converts project updates into actionable delivery intelligence, he
 
 ### Full Analysis
 
-![Full Analysis](full-analysis.png)
+![Full Analysis](full-analysis.PNG)
 
 ### Executive Summary
 
-![Executive Summary](executive-summary.png)
+![Executive Summary](executive-summary.PNG)
