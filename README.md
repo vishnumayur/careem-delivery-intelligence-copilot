@@ -35,3 +35,16 @@ The prototype converts project updates into actionable delivery intelligence, he
 * Dependency chain analysis
 * Scenario simulation
 * Predictive delivery forecasting
+* ## Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard-overview.PNG)
+
+### Full Analysis
+
+![Full Analysis](full-analysis.png)
+
+### Executive Summary
+
+![Executive Summary](executive-summary.png)
